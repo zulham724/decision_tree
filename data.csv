@@ -1,0 +1,15 @@
+cuaca,temperatur,kerumunan,berangin,play
+cerah,panas,ramai,false,false
+cerah,panas,ramai,true,false
+mendung,panas,ramai,false,true
+hujan,sejuk,ramai,false,true
+hujan,dingin,normal,false,true
+hujan,dingin,normal,true,false
+mendung,dingin,normal,true,true
+cerah,sejuk,ramai,false,false
+cerah,dingin,normal,false,true
+hujan,sejuk,normal,false,true
+cerah,sejuk,normal,true,true
+mendung,sejuk,ramai,true,true
+mendung,panas,normal,false,true
+hujan,sejuk,ramai,true,false
